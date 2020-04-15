@@ -1,4 +1,13 @@
+# lensajabar
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Start
+
+```
+git clone https://github.com/ardabudi/LensaJabar.git
+cd LensaJabar
+npm install
+```
 
 ## Available Scripts
 
